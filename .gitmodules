@@ -1,3 +1,6 @@
 [submodule "my-react-frontend"]
 	path = my-react-frontend
 	url = https://github.com/Julio92-C/my-react-frontend.git
+[submodule "Python_Flask_CRUD_API"]
+	path = Python_Flask_CRUD_API
+	url = https://github.com/Julio92-C/Python_Flask_CRUD_API.git
