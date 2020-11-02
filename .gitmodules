@@ -1,0 +1,3 @@
+[submodule "my-react-frontend"]
+	path = my-react-frontend
+	url = https://github.com/Julio92-C/my-react-frontend.git
